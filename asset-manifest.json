@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/pun-tastic/static/css/main.430c065b.css",
-    "main.js": "/pun-tastic/static/js/main.d6248213.js",
+    "main.css": "/pun-tastic/static/css/main.85e96040.css",
+    "main.js": "/pun-tastic/static/js/main.2125afcd.js",
     "index.html": "/pun-tastic/index.html",
-    "main.430c065b.css.map": "/pun-tastic/static/css/main.430c065b.css.map",
-    "main.d6248213.js.map": "/pun-tastic/static/js/main.d6248213.js.map"
+    "main.85e96040.css.map": "/pun-tastic/static/css/main.85e96040.css.map",
+    "main.2125afcd.js.map": "/pun-tastic/static/js/main.2125afcd.js.map"
   },
   "entrypoints": [
-    "static/css/main.430c065b.css",
-    "static/js/main.d6248213.js"
+    "static/css/main.85e96040.css",
+    "static/js/main.2125afcd.js"
   ]
 }

@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/pun-tastic/static/css/main.85e96040.css",
-    "main.js": "/pun-tastic/static/js/main.2125afcd.js",
+    "main.js": "/pun-tastic/static/js/main.5ad1dac8.js",
     "index.html": "/pun-tastic/index.html",
     "main.85e96040.css.map": "/pun-tastic/static/css/main.85e96040.css.map",
-    "main.2125afcd.js.map": "/pun-tastic/static/js/main.2125afcd.js.map"
+    "main.5ad1dac8.js.map": "/pun-tastic/static/js/main.5ad1dac8.js.map"
   },
   "entrypoints": [
     "static/css/main.85e96040.css",
-    "static/js/main.2125afcd.js"
+    "static/js/main.5ad1dac8.js"
   ]
 }

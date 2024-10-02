@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pun-tastic/static/css/main.430c065b.css",
+    "main.js": "/pun-tastic/static/js/main.d6248213.js",
+    "index.html": "/pun-tastic/index.html",
+    "main.430c065b.css.map": "/pun-tastic/static/css/main.430c065b.css.map",
+    "main.d6248213.js.map": "/pun-tastic/static/js/main.d6248213.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.430c065b.css",
+    "static/js/main.d6248213.js"
+  ]
+}
